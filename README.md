@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amateur-gen
+- 👋 Hi, I’m @amateur_gen
 - 👀 I’m interested in snowboarding and daydreaming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
